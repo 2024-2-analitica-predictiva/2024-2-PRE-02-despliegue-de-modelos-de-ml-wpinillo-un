@@ -1,5 +1,6 @@
 .DS_Store
 .vscode/
+ml-deployment/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
